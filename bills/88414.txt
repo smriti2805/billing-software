@@ -1,0 +1,19 @@
+ Welcome Mini Mall
+ Bill Number: 88414
+ Customer Name: 
+ Phone Number: 
+ Customer Email: 
+
+==========================================
+ Products			QTY	Price
+==========================================
+Ponds			1	20
+Roadster			1	1800
+Iphone 12			1	85000
+
+==========================================
+ Sub Amount:			Rs.86820.00
+ Tax Amount:			Rs.868.20
+ Total Amount:			Rs.87688.20
+==========================================
+

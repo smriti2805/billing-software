@@ -1,0 +1,18 @@
+ Welcome Mini Mall
+ Bill Number: 91375
+ Customer Name: 
+ Phone Number: 
+ Customer Email: 
+
+==========================================
+ Products			QTY	Price
+==========================================
+Roadster			1	1800
+Roadster			1	1800
+
+==========================================
+ Sub Amount:			Rs.3600.00
+ Tax Amount:			Rs.36.00
+ Total Amount:			Rs.3636.00
+==========================================
+
